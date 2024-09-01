@@ -1,0 +1,34 @@
+.formulario{
+        background-color: aqua;
+        padding: 10px 20px 200px 40px;
+}
+
+.formulario_input{
+              padding: 2px;
+              width: 25%;
+              background-color: black;
+              margin: 10px;
+              float: left; /* Hace que los elementos floten a la izquierda */
+              clear: both; /* Hace que cada input comience en una nueva línea */
+              color: white;
+    
+              
+}
+
+.formulario_submit{
+             background-color: red;
+             letter-spacing: 2px;
+             width: 50%;
+             color:white
+             
+             
+
+}
+
+.div1{
+    padding: 50px;
+    background-color: rgb(0, 255, 60);
+    height: 100px;
+    
+
+}
